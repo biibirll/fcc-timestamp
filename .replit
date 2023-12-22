@@ -1,0 +1,4 @@
+language = "javascript"
+entryPoint = "index.ts"
+onBoot = "npm install"
+run = "npm run dev"
